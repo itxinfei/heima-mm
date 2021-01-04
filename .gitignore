@@ -1,9 +1,8 @@
-.idea
 .idea/
 *.iml
 /**/*.iml
 /*/target/
-target
-mm_oms_backend/src/main/webapp/img/upload/
+target/
 mm_common/src/test/
 mvc_framework/src/test/
+
